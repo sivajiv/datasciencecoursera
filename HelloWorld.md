@@ -1,3 +1,1 @@
-## This is header
-
-* Hello world!
+## This is a markdown file
